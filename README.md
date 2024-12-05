@@ -11,10 +11,8 @@ I am pursuing a career in Web Development. Next to programming I love gaming, pr
 Here are some projects I've created:
 
 - 🎤 <a href="https://github.com/vrostar/Pitch-Perfect-Vocal-Training">Pitch Perfect</a>, Vocal training game made using Unity to train your voice in a fun way
-<br/>
 
 - 🎨 <a href="https://github.com/vrostar/MuseaSpot">MuseaSpot</a>, Mobile app made with React Native using GPS to localize museums in Rotterdam. <a href="https://www.youtube.com/watch?v=7AhJijQd0Ck">Video</a>
-<br/>
 
 - 📷 <a href="https://github.com/vrostar/FeebleReservations">Feeble Reservations</a> A reservation system built using PHP with SQL database connection for the company. <a href="https://www.feeble.nl">Feeble</a>
 
